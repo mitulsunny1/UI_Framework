@@ -4,7 +4,7 @@
   <artifactId>ReadFile</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <properties>
-  <apachePoi.version>4.1.0</apachePoi.version>
+  <apachePoi.version>5.4.0</apachePoi.version>
   <selenium.version>3.141.59</selenium.version>
   <cucumber.version>1.2.5</cucumber.version>
   </properties>
